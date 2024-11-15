@@ -1,4 +1,5 @@
 This is @RemiCou 's Profile
 
-Amateur python, c, java
-Experience mineure en mods de jeu
+- Amateur en python, c, java
+- Intéressé par musique, jeux de combat
+- Expérience mineure en mods de jeu
